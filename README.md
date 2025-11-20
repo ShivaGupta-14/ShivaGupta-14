@@ -17,10 +17,11 @@
 ## 🔗 Connect With Me
 
 <p align="left">
-  <a href="https://www.linkedin.com/in/shivagupta14" target="_blank">
+  <!-- Add your actual links whenever ready -->
+  <a href="#" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
-  <a href="https://leetcode.com/u/Shiva_Gupta_01" target="_blank">
+  <a href="#" target="_blank">
     <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
   </a>
 </p>
@@ -48,18 +49,20 @@
 
 ---
 
-## 📊 GitHub Stats (Stable & Always Working)
+## 📊 GitHub Stats
 
-### 🔹 GitHub Contribution Heatmap (never breaks)
 <p align="center">
-  <img src="https://ghchart.rshah.org/ShivaGupta-14" alt="Shiva's GitHub chart" />
+  <img src="https://github-readme-stats.vercel.app/api?username=ShivaGupta-14&show_icons=true&theme=tokyonight&count_private=true" height="180" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ShivaGupta-14&theme=tokyonight" height="180" />
 </p>
 
-### 🔹 Basic Profile Stats (Official Shields API — 100% stable)
 <p align="center">
-  <img src="https://img.shields.io/github/followers/ShivaGupta-14?style=for-the-badge"/>
-  <img src="https://img.shields.io/github/stars/ShivaGupta-14?style=for-the-badge"/>
-  <img src="https://img.shields.io/github/commit-activity/y/ShivaGupta-14?style=for-the-badge"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ShivaGupta-14&theme=tokyonight" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ShivaGupta-14&theme=tokyonight&utcOffset=+5.5" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ShivaGupta-14&theme=tokyonight" />
 </p>
 
 ---

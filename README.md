@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Shiva Gupta</h1>
 <h3 align="center">Frontend & Backend Developer | AIML Enthusiast | CS Student</h3>
 
----
-
 ## 👨‍💻 About Me
 
 - 🎓 Pursuing **Computer Science Engineering**  
@@ -11,8 +9,6 @@
 - 🔍 Currently learning **Go** and **Flutter**
 - 🤝 Open for collaboration on meaningful **full-stack and AI-integrated projects**
 - 📫 Reach me at: **connectwithshiva1@gmail.com**
-
----
 
 ## 🔗 Connect With Me
 
@@ -25,8 +21,6 @@
     <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
   </a>
 </p>
-
----
 
 ## 🛠️ Tech Stack
 
@@ -47,8 +41,6 @@
   <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white"/>
   <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white"/>
 </p>
-
----
 
 ## 📊 GitHub Stats
 
@@ -72,9 +64,6 @@
     src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=shivaGupta-14&theme=tokyonight"
   />
 </p>
-
-
----
 
 ## 💡 Fun Fact
 

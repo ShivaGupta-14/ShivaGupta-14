@@ -1,4 +1,9 @@
 <h1 align="center">Hi 👋, I'm Shiva Gupta</h1>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=ShivaGupta-14&label=Profile%20Views&color=0e75b6&style=flat" />
+</p>
+
 <h3 align="center">Frontend & Backend Developer | AIML Enthusiast | CS Student</h3>
 
 ## 👨‍💻 About Me

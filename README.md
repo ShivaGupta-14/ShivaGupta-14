@@ -19,9 +19,6 @@
 
 <p align="left">
   <!-- Add your actual links whenever ready -->
-  <a href="https://www.linkedin.com/in/shivagupta14" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
   <a href="#" target="_blank">
     <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
   </a>

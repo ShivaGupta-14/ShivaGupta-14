@@ -60,3 +60,7 @@ Full-stack developer, moving toward infrastructure and systems work.
   <img height="32" src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white"/>
 </p>
 
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=ShivaGupta-14&label=Profile%20Views&color=0e75b6&style=flat-square"/>
+</p>
+
